@@ -48,7 +48,7 @@ A quick overview of the SportOps system across different user roles and core mod
 
 Users log in based on their role (Admin, Coach, Athlete).
 
-<p align="center"> <img src="login.jpeg" width="700"/> </p>
+<p align="center"> <img src="user_login.jpeg" width="700"/> </p>
 📊 Admin Dashboard
 
 Central control panel with real-time statistics, system overview, and management tools.
