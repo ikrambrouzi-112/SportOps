@@ -48,27 +48,27 @@ A quick overview of the SportOps system across different user roles and core mod
 
 Users log in based on their role (Admin, Coach, Athlete).
 
-<p align="center"> <img src="frontend/screenshots/login.jpeg" width="700"/> </p>
+<p align="center"> <img src="login.jpeg" width="700"/> </p>
 📊 Admin Dashboard
 
 Central control panel with real-time statistics, system overview, and management tools.
 
-<p align="center"> <img src="frontend/screenshots/dashboard_admin.jpeg" width="700"/> </p>
+<p align="center"> <img src="dashboard_admin.jpeg" width="700"/> </p>
 🏋️ Coach Dashboard
 
 Team management interface for coaches to organize training, tryouts, and players.
 
-<p align="center"> <img src="frontend/screenshots/dashboard_coach.jpeg" width="700"/> </p>
+<p align="center"> <img src="dashboard_coach.jpeg" width="700"/> </p>
 👥 Teams & Memberships
 
 Displays team rosters, roles, and student participation across multiple sports.
 
-<p align="center"> <img src="frontend/screenshots/teams.jpeg" width="700"/> </p>
+<p align="center"> <img src="teams.jpeg" width="700"/> </p>
 🏟 Facility Booking System
 
 Facility reservation system with approval workflow (Pending / Approved / Rejected).
 
-<p align="center"> <img src="frontend/screenshots/bookings.jpeg" width="700"/> </p>
+<p align="center"> <img src="bookings.jpeg" width="700"/> </p>
 
 ## 🧱 Tech Stack
 
