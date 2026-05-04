@@ -115,6 +115,15 @@ Main entities:
 - Advanced analytics with AI predictions
 
 ---
+## 👥 Team Members
+
+This project was developed by:
+
+- Badreddine Guellass  
+- Ikram El Brouzi  
+- Nada El Yassenasni  
+- Nora Barakat  
+- Wiam Alaoui Hachimi  
 
 ## 📜 License
 
