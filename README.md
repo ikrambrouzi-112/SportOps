@@ -58,7 +58,7 @@ Central control panel with real-time statistics, system overview, and management
 
 Team management interface for coaches to organize training, tryouts, and players.
 
-<p align="center"> <img src="dashboard_coach.jpeg" width="700"/> </p>
+<p align="center"> <img src="coach_dashboard.jpeg" width="700"/> </p>
 👥 Teams & Memberships
 
 Displays team rosters, roles, and student participation across multiple sports.
@@ -68,7 +68,7 @@ Displays team rosters, roles, and student participation across multiple sports.
 
 Facility reservation system with approval workflow (Pending / Approved / Rejected).
 
-<p align="center"> <img src="bookings.jpeg" width="700"/> </p>
+<p align="center"> <img src="facility_bookings.jpeg" width="700"/> </p>
 
 ## 🧱 Tech Stack
 
